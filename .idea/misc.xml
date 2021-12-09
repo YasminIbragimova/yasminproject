@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mybakery/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mybakery/app/src/main/res/layout/activity_main_activityglavnaya.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mybakery/app/src/main/res/layout/activity_main_activityoplata.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mybakery/app/src/main/res/layout/activity_main_activityotzivmy.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mybakery/app/src/main/res/layout/activity_main_activityotzivy.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mybakery/app/src/main/res/layout/activity_main_activityozidaite.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mybakery/app/src/main/res/layout/activity_main_activitypaypage.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mybakery/app/src/main/res/layout/activity_main_activitysearch.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mybakery/app/src/main/res/layout/activity_main_activityspasibo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mybakery/app/src/main/res/layout/activity_main_bot.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mybakery/app/src/main/res/layout/finishpay.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mybakery/app/src/main/res/layout/glavnaya.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/mybakery/app/src/main/res/layout/search.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
